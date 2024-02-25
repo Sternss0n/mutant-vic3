@@ -1,0 +1,21 @@
+﻿object={
+	name="bush_02_generator_2_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_bush_03_mesh"
+	count=3
+	transform="570.650757 0.000000 1140.865479 0.000000 0.999943 0.000000 0.010670 0.156249 0.156249 0.156249
+572.185974 0.000000 1143.748169 0.000000 0.696477 0.000000 0.717579 0.194905 0.194905 0.194905
+573.569519 0.000000 1142.997681 0.000000 0.032422 0.000000 0.999474 0.190206 0.190206 0.190206
+"}
+object={
+	name="bush_02_generator_2_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="tree_bush_04_mesh"
+	count=0
+}

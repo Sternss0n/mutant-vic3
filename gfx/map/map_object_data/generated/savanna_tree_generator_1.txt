@@ -1,0 +1,42 @@
+﻿object={
+	name="savanna_tree_generator_1_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic"
+	pdxmesh="tree_savanna_001_mesh"
+	count=1
+	transform="1370.122314 0.000000 1479.402100 0.000000 0.663699 0.000000 0.748000 0.193354 0.193354 0.193354
+"}
+object={
+	name="savanna_tree_generator_1_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic"
+	pdxmesh="tree_savanna_002_mesh"
+	count=3
+	transform="1374.953613 0.000000 1468.361938 0.000000 0.995778 0.000000 0.091794 0.208502 0.208502 0.208502
+1367.890747 0.000000 1487.651489 0.000000 0.837529 0.000000 0.546393 0.195598 0.195598 0.195598
+1375.825928 0.000000 1476.716187 0.000000 0.937882 0.000000 0.346953 0.196948 0.196948 0.196948
+"}
+object={
+	name="savanna_tree_generator_1_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic"
+	pdxmesh="tree_savanna_003_mesh"
+	count=0
+}
+object={
+	name="savanna_tree_generator_1_3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic"
+	pdxmesh="tree_savanna_004_mesh"
+	count=2
+	transform="1372.793701 0.000000 1471.435547 0.000000 0.229867 0.000000 -0.973222 0.213465 0.213465 0.213465
+1376.618042 0.000000 1471.959351 0.000000 0.426922 0.000000 -0.904289 0.432315 0.432315 0.432315
+"}
