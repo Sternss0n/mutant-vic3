@@ -3002,7 +3002,23 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3015,7 +3031,13 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3184,7 +3206,37 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3198,6 +3250,16 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -3240,7 +3302,31 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3357,7 +3443,13 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3383,7 +3475,9 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -3396,7 +3490,9 @@
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"locator",

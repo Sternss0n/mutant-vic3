@@ -298,7 +298,7 @@ object={
 object={
 	name="smoke_chimney_01"
 	clamp_to_water_level=yes
-	render_under_water=no
+	render_under_water=yes
 	generated_content=no
 	layer="environmental_effects"
 	entity="smoke_chimney_01"
@@ -311,8 +311,9 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="whale_entity"
-	count=0
-}
+	count=1
+	transform="4368.880371 0.000000 1790.273682 0.000000 0.000000 0.000000 1.000000 27.165663 27.165663 27.165663
+"}
 object={
 	name="whale_white_01"
 	clamp_to_water_level=yes
@@ -320,5 +321,6 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="whale_white_entity"
-	count=0
-}
+	count=1
+	transform="1448.223633 0.000000 282.959229 0.000000 0.000000 0.000000 1.000000 3.325850 3.325850 3.325850
+"}
