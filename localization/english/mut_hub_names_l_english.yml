@@ -1,0 +1,66 @@
+﻿l_english:
+
+#Sweden
+HUB_NAME_STATE_HINDENBURG_city:0 "Emperor Hill"
+HUB_NAME_STATE_HINDENBURG_port:0 "The Harbour"
+HUB_NAME_STATE_HINDENBURG_farm:0 "The Diplomat City"
+HUB_NAME_STATE_HINDENBURG_mine:0 "Kopparberget"
+HUB_NAME_STATE_HINDENBURG_wood:0 "The Industrial District"
+
+HUB_NAME_STATE_PYRI_PLAINS_city:0 "Kröögersnäs"
+HUB_NAME_STATE_PYRI_PLAINS_port:0 "Örebåga"
+HUB_NAME_STATE_PYRI_PLAINS_farm:0 "Ömlevik"
+HUB_NAME_STATE_PYRI_PLAINS_mine:0 "Station Höjk"
+HUB_NAME_STATE_PYRI_PLAINS_wood:0 "Wredesås"
+
+HUB_NAME_STATE_MUSKO_city:0 "Muskö"
+HUB_NAME_STATE_MUSKO_port:0 "Gäckamull Kulla"
+HUB_NAME_STATE_MUSKO_farm:0 "Glitterboda"
+HUB_NAME_STATE_MUSKO_mine:0 "Frasebo"
+HUB_NAME_STATE_MUSKO_wood:0 "Hylsebo"
+
+HUB_NAME_STATE_ALGAMARDEN_city:0 "Älgamården"
+HUB_NAME_STATE_ALGAMARDEN_port:0 "Skjutskär"
+HUB_NAME_STATE_ALGAMARDEN_farm:0 "Logsta Bro"
+HUB_NAME_STATE_ALGAMARDEN_mine:0 "Mine"
+HUB_NAME_STATE_ALGAMARDEN_wood:0 "Ödmården"
+
+HUB_NAME_STATE_NORDHOLMIA_city:0 "Nordholmia"
+HUB_NAME_STATE_NORDHOLMIA_port:0 "Nordhamn"
+HUB_NAME_STATE_NORDHOLMIA_farm:0 "Knapperkulla"
+HUB_NAME_STATE_NORDHOLMIA_mine:0 "Styvnacka"
+HUB_NAME_STATE_NORDHOLMIA_wood:0 "Frykens Ed"
+
+HUB_NAME_STATE_SKARPNACK_city:0 "Skarpnäck"
+HUB_NAME_STATE_SKARPNACK_port:0 "Knyckelboda"
+HUB_NAME_STATE_SKARPNACK_farm:0 "Svartmåla"
+HUB_NAME_STATE_SKARPNACK_mine:0 "Hiske"
+HUB_NAME_STATE_SKARPNACK_wood:0 "Gislaby"
+
+HUB_NAME_STATE_KARLE_city:0 "Karle"
+HUB_NAME_STATE_KARLE_port:0 "Vlacka"
+HUB_NAME_STATE_KARLE_farm:0 "Bjästa"
+HUB_NAME_STATE_KARLE_mine:0 "Sävfle"
+HUB_NAME_STATE_KARLE_wood:0 "Slevtofta"
+
+HUB_NAME_STATE_PIRIT_city:0 "Pirit"
+HUB_NAME_STATE_PIRIT_port:0 "Östervik"
+HUB_NAME_STATE_PIRIT_farm:0 "Glimmersta Bodum"
+HUB_NAME_STATE_PIRIT_mine:0 "Hugahult"
+HUB_NAME_STATE_PIRIT_wood:0 "Kloteröd"
+
+HUB_NAME_STATE_GOBORG_city:0 "Göborg"
+HUB_NAME_STATE_GOBORG_port:0 "Tjärhåla"
+HUB_NAME_STATE_GOBORG_farm:0 "Munna Bäckamark"
+HUB_NAME_STATE_GOBORG_mine:0 "Guldtorp"
+HUB_NAME_STATE_GOBORG_wood:0 "Styrbjörns Trail"
+
+#Denmark
+
+#Norway
+ 
+#Finland
+ 
+#Baltics
+ 
+#Zones

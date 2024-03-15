@@ -1,9 +1,9 @@
 {
-  "name" : "Total Conversion Sandbox",
+  "name" : "Mutant Victoria 3",
   "id" : "",
   "version" : "1.0",
   "supported_game_version" : "1.*.*",
-  "short_description" : "A near blank slate for modders seeking to create a Total Conversion mod.",
+  "short_description" : "A total conversion for Victoria 3.",
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {

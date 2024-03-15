@@ -1,0 +1,75 @@
+﻿
+STATE_KNAGGEL_COAST = {
+    id = 201
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x69B8EC" "x7D6D69" "x8066B8" "x87769C" "x8AA6F0" "x8DB0E5" "x947ADA" "x94BBD2" "x96AC80" "x9C81CE" "x9DF498" "x9EE684" "xA0FCE7" "xA9AF67" "xABF26C" "xADAAC8" "xB67283" "xB6EB79" "xBADCA1" "xBBA174" "xBC7DA4" "xC39590" "xC5D6B4" "xCC6CF3" "xCE6EA9" "xD3E3E4" "xD5CAAD" "xD7D0A4" "xD8A1FB" "xD982C8" "xD9D87C" "xDEB4F9" "xE0ADC4" "xE86FF4" "xEB889E" "xEDB77A" "xF27EDE" "xF390C1" "xF4C674" "xF58EF0" "xF5A8F1" "xFA6786" }
+    traits = {}
+    city = "" #
+
+
+
+
+
+
+
+
+
+
+
+    port = "" #
+
+
+
+
+
+
+
+
+
+
+
+    farm = "" #
+
+
+
+
+
+
+
+
+
+
+
+    mine = "" #
+
+
+
+
+
+
+
+
+
+
+
+    wood = "" #
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}

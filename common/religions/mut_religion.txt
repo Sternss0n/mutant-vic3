@@ -1,0 +1,55 @@
+﻿# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+###### EXAMPLE ######
+
+#examplian = {
+#	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+#	traits = {
+#		christian
+#	}
+#	color = { 0.8 0.6 0.4 }
+#}
+
+#####################
+
+#Mutant Religions
+
+shamanist = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		shamanic
+	}
+	color = { 0.8 0.6 0.4 }
+}
+
+cultists = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		shamanist
+	}
+	color = { 0.8 0.6 0.4 }
+}
+
+traditions = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		traditions
+	}
+	color = { 0.8 0.6 0.4 }
+}
+
+sects = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		sect
+	}
+	color = { 0.8 0.6 0.4 }
+}
+
+zone_worship = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		zone_worshipper
+	}
+	color = { 0.8 0.6 0.4 }
+}

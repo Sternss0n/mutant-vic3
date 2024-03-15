@@ -1,0 +1,59 @@
+﻿COUNTRIES = {
+	c:A01 = {
+	
+		set_tax_level = high
+		
+		effect_starting_technology_tier_1_tech = yes
+		
+		set_market_capital = STATE_HINDENBURG
+		
+		
+		#Power Structure
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_total_separation 	#afaik there is no central religion in Pyri
+		activate_law = law_type:law_hereditary_bureaucrats	 #Entrenched nobility
+		activate_law = law_type:law_national_militia 	#How the entire nation was founded
+		activate_law = law_secret_police 	#PSIPO Secret Psi-Mutant Hunters
+
+		#Economy
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_free_trade
+		activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_frontier_colonization
+		activate_law = law_type:law_local_police
+		activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		activate_law = law_type:law_homesteading
+		activate_law = law_type:law_no_migration_controls
+
+		#Human Rights
+		activate_law = law_type:law_censorship
+		#activate_law = law_type:law_serfdom_banned
+		activate_law = law_type:law_child_labor_allowed
+		activate_law = law_type:law_women_own_property
+		activate_law = law_type:law_slavery_banned
+		
+		set_institution_investment_level = {
+			institution = institution_colonial_affairs
+			level = 2
+		}
+
+		set_institution_investment_level = {
+			institution = institution_police
+			level = 1
+		}
+		
+		#Interest Groups
+		ig:ig_landowners = {
+			add_ruling_interest_group = yes
+		}
+		ig:ig_armed_forces = {
+			add_ruling_interest_group = yes
+		}
+		ig:ig_industrialists = {
+			add_ruling_interest_group = yes
+		}
+	}
+}

@@ -1,0 +1,358 @@
+﻿STATE_HINDENBURG = {
+    id = 1
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x1e6c40" "x1e6c40" "x9fd0d6" "x0dca1e" "x8a1f5e" "x64e8e1" }
+    traits = {}
+    city = "x148c2e" #Emperor Hill
+
+
+
+
+    port = "x1e6c40" #The Harbour
+
+
+
+
+    farm = "x9fd0d6" #The Diplomat City
+
+
+
+
+    mine = "x0dca1e" #Kopparberget
+
+
+
+
+    wood = "x8a1f5e" #Industrial District
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 36
+        bg_coal_mining = 92
+        bg_logging = 30
+        bg_fishing = 20
+        bg_lead_mining = 36
+    }
+    naval_exit_id = 3000
+}
+STATE_PYRI_PLAINS = {
+    id = 2
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x55C7D5" "x646776" "x648EFD" "x65AD69" "x6676C3" "x6676EA" "x66B4F1" "x6898D2" "x68FDE3" "x6B82FC" "x6BF0D2" "x6C6CAE" "x6CFDEA" "x6D8AC7" "x6ECADB" "x70B19A" "x727CF2" "x729B91" "x73AA91" "x75BF7A" "x75C5AC" "x767079" "x7990B5" "x79A07E" "x7A8A85" "x7BDCA7" "x7BF6A6" "x7DC1A4" "x7E94C5" "x7EA47C" "x7FAEAB" "x801C83" "x81F0D7" "x82DAD5" "x839ED4" "x847D7C" "x848F80" "x858FF4" "x86658B" "x877F9C" "x8B8964" "x8BADD7" "x9096C2" "x9283D2" "x928A82" "x93A89A" "x96ADFB" "x96E97E" "x9B2320" "x9C6667" "x9C82F7" "x9CF5F1" "x9D8280" "x9D90C8" "x9D947F" "x9EBDEF" "x9F6EFD" "x9FE5CC" "xA1C69C" "xA1F56E" "xA3E7AE" "xA4F0EC" "xA579B6" "xA66DBE" "xA69E67" "xA6B1AF" "xA7E3BD" "xA886CC" "xAA7EE8" "xACE1D9" "xADB1CF" "xADFCF5" "xADFE82" "xB38FF1" "xB3A780" "xB3BEDC" "xB58B87" "xB78291" "xB7D6D7" "xB873E6" "xB97B87" "xBA72E1" "xBA9780" "xBB8268" "xBCA6B3" "xBCD06B" "xBD837A" "xBE96C9" "xBF6F81" "xC36A7E" "xC3CFD1" "xC493D0" "xC4D0B5" "xC676F8" "xC7A466" "xC8859E" "xCD8AC0" "xCEE1E9" "xCFC3FD" "xD0A569" "xD0DEB4" "xD2B6B4" "xD46CED" "xD4BD9E" "xD56BB1" "xD68367" "xD7DFAA" "xD9BEE3" "xDAC5C3" "xDB7CA7" "xDD7EEC" "xDD8C9F" "xDEC274" "xDECE75" "xE0A7E8" "xE0AD90" "xE1B9FD" "xE27CAB" "xE2C46E" "xE5D2ED" "xE5EDD3" "xE97577" "xE98BE0" "xECA5DA" "xECE6A9" "xEF9997" "xF1B0E9" "xF279A5" "xF2C5C1" "xF2E09B" "xF497A3" "xF864D4" "xF9EAC7" "xFB91F1" "xFC746E" "xFCE882" "xFCF26B" "xFD9EA9" "xFDBFBA" "xFE7D6A" }
+    traits = {}
+    city = "x6d8ac7" #Kröögersnäs
+
+
+
+
+    port = "xe97577" #Örebåga
+
+
+
+
+    farm = "x73aa91" #Ömlevik
+
+
+
+
+    mine = "xfd9ea9" #Station Höjk
+
+
+
+
+    wood = "xdd7eec" #Wredesås
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 36
+        bg_coal_mining = 92
+        bg_logging = 30
+        bg_fishing = 20
+        bg_lead_mining = 36
+    }
+    naval_exit_id = 3000
+}
+STATE_ALGAMARDEN = {
+    id = 3
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x65C9B8" "x66AFDF" "x67C9DA" "x688668" "x68A3E6" "x6AE0D5" "x6B687B" "x6B79DB" "x6BA26C" "x6EA079" "x6EC3B0" "x6ECAF3" "x6FAF85" "x6FB5C7" "x70EFD2" "x719978" "x71ABEB" "x71C6B1" "x72886D" "x73FD7C" "x7579FE" "x77C2A0" "x7986BD" "x79CC85" "x79DDEF" "x79DEFE" "x7A7790" "x7B8297" "x7BBEA7" "x7BF57A" "x7CA0CA" "x7DA8CE" "x7DC1A4" "x7EAFE8" "x7EF4DA" "x7FE973" "x80C97A" "x80E16C" "x8272D0" "x8291F3" "x836FEE" "x848DDB" "x84DB74" "x8598F0" "x86CEEB" "x877F9C" "x8AF7F5" "x8BDA84" "x8BF0A8" "x8C7EE7" "x8CB96B" "x8EBBA0" "x8ED4DB" "x8FF2E7" "x90E4B3" "x928BDB" "x92F8EE" "x93E7F1" "x946B83" "x94FBBA" "x967288" "x97BFE2" "x986791" "x99818A" "x99ABDA" "x9CCBC9" "x9D8095" "x9D947F" "x9F9DD2" "xA08F7A" "xA16881" "xA1C2F2" "xA2FA64" "xA59784" "xA6A5C8" "xA6A675" "xA6F886" "xA791C9" "xA7DDFB" "xA7FD6C" "xA897C7" "xA97DC2" "xA9DAAD" "xAA9671" "xAC7466" "xAC74F7" "xADB6B0" "xAFEB95" "xB0E2F6" "xB29E83" "xB2CBAC" "xB2E38E" "xB3A780" "xB4A1CD" "xB58C90" "xB5D192" "xB5E9E8" "xB6EFDB" "xB7CCF4" "xB8826A" "xB8C587" "xBA9780" "xBA9EBF" "xBC9F77" "xBEC277" "xBEE1C1" "xC0717F" "xC0B170" "xC16E99" "xC172AE" "xC183BD" "xC29ED7" "xC4776A" "xC493D0" "xC4DDE7" "xC4FE97" "xC7A466" "xC7E09D" "xC8FD9F" "xC96E7E" "xC98689" "xC9D1FE" "xCA94CA" "xCADC90" "xCBB4F3" "xCCA27E" "xCCFC66" "xCE92CB" "xCFB7E0" "xD08DCA" "xD0D064" "xD2C1A2" "xD476FC" "xD4FBED" "xD5FBA0" "xD68D6D" "xD7999D" "xD7DFAA" "xD8896E" "xD8C2E1" "xD8D4D4" "xD9F0AE" "xDA6ADB" "xDA95A9" "xDBE6F7" "xDBF9B1" "xDC96BB" "xDEC5F6" "xE09CC1" "xE0AD90" "xE1C6C7" "xE1CFF5" "xE38DF9" "xE390D8" "xE3BF99" "xE4F6C9" "xE5D2ED" "xEA77AA" "xEAA1BD" "xEAB89B" "xEB939D" "xEBDC94" "xEC87CF" "xECAFC1" "xECE365" "xECE6A9" "xEEA899" "xEEF0F4" "xEF9997" "xF0DBD5" "xF1B0E9" "xF284BD" "xF28DC5" "xF4CEDA" "xF4F8A4" "xF57FBD" "xF5F69E" "xF664C8" "xF66EBF" "xF6D2D0" "xF76AF3" "xF97693" "xF98DA3" "xF9D8E9" "xF9FBC5" "xFAF7FD" "xFBF8EF" "xFCE882" "xFD95D0" "xFDD3D5" "xFDF0AF" }
+    traits = {}
+    city = "xce92cb" #Älgmården
+
+
+
+
+    port = "xb0e2f6" #Skjutskär
+
+
+
+
+    farm = "xa2fa64" #Logsta Bro
+
+
+
+
+    mine = "x9eaeed" #Ödmården
+
+
+
+
+    wood = "x97b194" #Svedala
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3002
+}
+STATE_NORDHOLMIA = {
+    id = 4
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x65A6E5" "x66A87D" "x66D3B1" "x68B67A" "x69F08F" "x6ACAEE" "x6B77B6" "x6C68FA" "x6CB96E" "x6DDF8D" "x6E6CFD" "x749487" "x74CBE3" "x75BA9E" "x75CBE4" "x767AEC" "x798F9B" "x79AA9C" "x79E9D6" "x7A83E9" "x7BA076" "x7C7085" "x7CD9EE" "x7CE99D" "x7D94B8" "x7DCDF9" "x7DE0AD" "x7DE3B9" "x7FCE88" "x7FE0C3" "x801C67" "x80BFDA" "x81CCAE" "x82BAB7" "x83F16D" "x83F889" "x84B076" "x84C1B4" "x85887E" "x859D82" "x85C3BF" "x867FB1" "x8781B3" "x8881DF" "x898C76" "x89C57C" "x89FCC0" "x8AE0CA" "x8AEAC0" "x8BAA9D" "x8BD2FA" "x8CF380" "x8D6CF0" "x8D88A2" "x8D94D8" "x8DF87D" "x8FF58A" "x90D873" "x92ABAA" "x9498C5" "x96A2A0" "x9764FC" "x9AA198" "x9AA564" "x9AF8B1" "x9CEAFA" "x9D7A77" "x9E81AD" "x9F76AF" "x9FC6BA" "x9FD8B9" "xA199E0" "xA2739F" "xA38F9C" "xA4A698" "xA6DDDF" "xA6F5C9" "xA7ABDC" "xA9B0C7" "xA9F5C1" "xAA68A1" "xAA6ACA" "xABDDAC" "xABF0D9" "xAC70D0" "xAC7C84" "xAC88C7" "xACC884" "xAED593" "xAF69FA" "xB17FE7" "xB1C88A" "xB28D90" "xB2FB73" "xB47FB3" "xB4A1CB" "xB4C6B4" "xB4E0EB" "xB5B792" "xB68FC5" "xB6E9C2" "xB77074" "xB7B1AD" "xB7F46E" "xBA9275" "xBAE3D9" "xBAED96" "xBEA3D7" "xC172C9" "xC1808E" "xC297A7" "xC3ADC0" "xC46CDC" "xC5A876" "xC5E5DB" "xC6C4CB" "xC6C9D5" "xC6D1D2" "xC87BED" "xC8E675" "xC9966C" "xC9A67C" "xCA6BD4" "xCA7A93" "xCAD86C" "xCADBAB" "xCB81C7" "xCCAFD2" "xCDDA7C" "xCEF8BA" "xCFB964" "xD0D2F8" "xD27B97" "xD2D4E8" "xD46A82" "xD4C571" "xD593D6" "xD66AD3" "xD7BBAF" "xD7E2F7" "xD8CF6F" "xD8F1BD" "xDB76FC" "xDBD5D1" "xDDD7EA" "xDDECC6" "xDFE9E3" "xE0B0BB" "xE0E3B0" "xE1AB7F" "xE1CED8" "xE296D8" "xE2AFC4" "xE2B1A9" "xE2E7F7" "xE56EDB" "xE671C9" "xE7B4C9" "xEAC7CB" "xEAF7CB" "xED6F72" "xED8F71" "xEE81B0" "xEE9CAD" "xEE9FFC" "xEEC6B5" "xEF81F1" "xEFEA9E" "xF18CAE" "xF26CD0" "xF2E378" "xF391D1" "xF4BAA1" "xF58A65" "xF691BC" "xF6D799" "xF7E7ED" "xF878BD" "xF8849F" "xF8D393" "xFA97B4" "xFBE184" "xFBFBF9" "xFC99B7" "xFCE4D2" "xFDF0CD" }
+    traits = {}
+    city = "xcff2ab" #Nordholmia
+
+
+
+
+    port = "" #Nordhamn
+
+
+
+
+    farm = "" #Knapperkulla
+
+
+
+
+    mine = "" #Styvnacka
+
+
+
+
+    wood = "" #Frykens Ed
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}
+STATE_SKARPNACK = {
+    id = 5
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x6B769B" "x6DC9B5" "x7385DC" "x73B2BD" "x754495" "x767CF0" "x7AE3FE" "x7BA079" "x82AAB0" "x836587" "x87688C" "x878ADD" "x89A2B8" "x8BEA86" "x8CDBA5" "x8EEFE0" "x8EFB7E" "x918BC0" "x92E585" "x98C372" "x9CDCBC" "x9FCFD1" "xA067EF" "xA48389" "xA48F76" "xA78691" "xA79592" "xA8D5A2" "xA991E7" "xAB929C" "xADA1BA" "xAE77FC" "xAED0E2" "xB09AC9" "xB0D3F4" "xB171E2" "xB3EEEE" "xB4F4E1" "xB6A7F0" "xB6FE8D" "xB7A673" "xB9F9FD" "xBBCEE5" "xC0D1D8" "xC7F482" "xC9CFE8" "xCAC791" "xCFFEB2" "xD177F7" "xD280D9" "xD2BCE5" "xD2EF82" "xD3D9DE" "xD4B5BF" "xD4FA99" "xD565C6" "xDA819E" "xDDC1E5" "xDFB6B8" "xE1938B" "xE58BAC" "xE5EDA0" "xE6BB96" "xE7B7B4" "xE8B3B5" "xEC9296" "xEDE29E" "xEEF8CB" "xF0DBCD" "xF16BDB" "xF1D580" "xF2DCA1" "xF37E93" "xF4726E" "xF4E28E" "xF5CA9A" "xF685ED" "xFAAF70" "xFAB4EF" "xFAF8A7" "xFB7E8A" "xFBE193" "xFC7194" "xFDA66A" }
+    traits = {}
+    city = "x8bea86" #Skarpnäck
+
+
+
+
+    port = "xaed0e2" #Hiske
+
+
+
+
+    farm = "xf2dca1" #Svartmåla
+
+
+
+
+    mine = "xf5ca9a" #Knyckelboda
+
+
+
+
+    wood = "xede29e" #Fimpen
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3013
+}
+STATE_KARLE = {
+    #Needs Map work
+    id = 6
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x64E4BE" "x658364" "x66CEF8" "x676784" "x69AE80" "x6A98B0" "x6B6DA2" "x6CCDF8" "x6E9B89" "x70C6D1" "x70CD75" "x727DDA" "x73658A" "x7390B0" "x73A498" "x73FAC0" "x747079" "x74FDCA" "x76E678" "x77D295" "x78A2EB" "x79EB8C" "x7A6C8A" "x7EEE66" "x809074" "x80DB8E" "x8270A1" "x84CB85" "x858AC3" "x89F789" "x8BBC97" "x8CE98A" "x8D8A73" "x8EF971" "x9066BB" "x92FBEC" "x938275" "x93BD69" "x94D8AD" "x94EEFE" "x9570F2" "x9681D7" "x96E1B4" "x9AA7E2" "x9BA967" "x9CB685" "x9D9EEE" "x9FC9EE" "xA2D096" "xA2DFC1" "xA47DC9" "xA675F2" "xA69DB6" "xA6BF78" "xA89097" "xA89479" "xA99DEC" "xA9A07A" "xAAB6E6" "xAAFEC9" "xADA4A3" "xADB8CB" "xAEB58D" "xAEE9BA" "xB0FDA3" "xB16C7F" "xB38B9E" "xB57FD1" "xB5D369" "xB6E0C7" "xB6F4E2" "xBA66A5" "xBA96AB" "xBBD8DB" "xBE86B2" "xBFCAEF" "xC0897B" "xC0CF7D" "xC0E2D5" "xC1BC66" "xC2819E" "xC4DBA0" "xC7CDD0" "xC97EF5" "xCCE8DE" "xD0EA7F" "xD1966E" "xD3ABBE" "xD3CE67" "xD4B683" "xD7EFFB" "xD8A77B" "xD9729B" "xDD81F0" "xDDF86A" "xDFABB0" "xE07F6C" "xE0AEF0" "xE1B8F4" "xE265FE" "xE2F0E5" "xE399C4" "xE3E6D3" "xE4947B" "xE4E79A" "xE56FCD" "xE5B371" "xE7B56B" "xEAADB5" "xEBA399" "xEC6CB6" "xEFCEF0" "xEFF6F2" "xF0877A" "xF087E7" "xF27A8F" "xF2B5A8" "xF2BFC6" "xF38ADF" "xF5C3A1" "xF888B6" "xF9C99E" "xFA7F9A" "xFB739D" "xFB83D6" "xFD8B75" }
+    traits = {}
+    city = "" #Karle
+
+
+
+
+    port = "" #Vlacka
+
+
+
+
+    farm = "" #Bjästa
+
+
+
+
+    mine = "" #Sävfle
+
+
+
+
+    wood = "" #Slevtofta
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3013
+}
+STATE_PIRIT = {
+    id = 7
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x1F646B" "x214416" "x65A08E" "x65E780" "x668BBC" "x66D0DC" "x6A72F6" "x6A8CE1" "x6B98E3" "x6CD9BF" "x6D8890" "x6FC19F" "x6FCCE5" "x70E4F4" "x70E6CE" "x74F2C1" "x756885" "x75B4AA" "x75F38E" "x76888E" "x768DA1" "x76DA65" "x78A868" "x78ADB7" "x79708D" "x79EF9E" "x7A8F6D" "x7BF7F8" "x7EA570" "x7FD87C" "x80A0E5" "x80C4C9" "x81ACB4" "x81CF88" "x82C3D2" "x82EA90" "x839598" "x8398E2" "x83A87F" "x85F9B6" "x86CCC8" "x87B865" "x88B485" "x898AB6" "x89A799" "x8BA2E8" "x8BD3CB" "x8CF482" "x8CF4CE" "x8D9C90" "x8ED868" "x926FBC" "x937593" "x93B480" "x93C46D" "x9470E0" "x956DCA" "x97B7E4" "x986CE9" "x996B8B" "x9B497C" "x9BC788" "x9BFD68" "x9CFD81" "x9FBFE1" "x9FC69A" "xA091C0" "xA172E5" "xA4A985" "xA66BCE" "xA7E4A0" "xA8EC6D" "xAA74DD" "xAC8B8C" "xAC91AF" "xADAABB" "xADE6B1" "xADF6FA" "xAECBBD" "xB1CBF4" "xB3668A" "xB393C0" "xB6F8F1" "xB7A76F" "xB989D4" "xBA99AF" "xBCA2BA" "xBCB6C6" "xBDDAA4" "xBE6EEF" "xBE8D91" "xBEB7AE" "xC093E1" "xC0D2FC" "xC0D7C7" "xC38E85" "xC3F86B" "xC4BCDA" "xC4D6C9" "xC4FA9B" "xC584CC" "xC9DEE3" "xC9FBB3" "xCA82CA" "xCBC4B2" "xCDEDAB" "xCEB56F" "xCED281" "xCFE7ED" "xCFF2C1" "xCFF6C7" "xD1CDCC" "xD392B7" "xD39CE8" "xD5C7F7" "xD7DA75" "xD9C4B6" "xDB8FA0" "xDCBEDC" "xE1BC87" "xE37BB5" "xE481F4" "xE5A3CF" "xE5CBE8" "xE6A48B" "xE7CB8B" "xE97CD5" "xE9ACAC" "xEA8467" "xEB85EE" "xEB96BC" "xED937C" "xED9EE1" "xEDD2B8" "xEF6668" "xEFE27F" "xF07DAC" "xF0B3BD" "xF1E3E9" "xF365B2" "xF3BBA7" "xF7879E" "xF8C9DE" "xFAF36E" "xFB9366" "xFCFBC9" "xFD8D9E" "xFECB8E" }
+    traits = {}
+    city = "x9b497c" #Pirit
+
+
+
+
+    port = "xb3668a" #Östervik
+
+
+
+
+    farm = "x74f2c1" #Glimmersta Bodum
+
+
+
+
+    mine = "xeb85ee" #Hugahult
+
+
+
+
+    wood = "x719ae1" #Kloteröd
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3002
+}
+STATE_GOBORG = {
+    id = 8
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x09ABA5" "x6793E1" "x687F70" "x68D271" "x6A9089" "x709BE6" "x77F5DF" "x78A0A2" "x7CA0A4" "x7CECB0" "x7EE8F1" "x7F9985" "x81D7E1" "x8666A9" "x86A884" "x886EE4" "x88E5A9" "x8D8CC3" "x8DB0D0" "x8FE2F4" "x91A390" "x91D572" "x9364EC" "x96AF8F" "x99470A" "x998185" "x9E9D88" "x9F808F" "x9FB9E1" "xA37192" "xA3E171" "xABCB64" "xAE92CB" "xB1D6E4" "xB5F2EA" "xB86FBE" "xB8CA6B" "xBD8371" "xBF68E5" "xC2E984" "xC37BB8" "xC4E4D6" "xC56485" "xCFBE91" "xD0928D" "xD1D078" "xD2DBA4" "xD3B8F2" "xDA77CF" "xF4B497" "xF6A57E" }
+    traits = {}
+    city = "x86a884" #Göborg
+
+
+
+
+    port = "x886ee4" #Tjärhåla
+
+
+
+
+    farm = "xda77cf" #Munna Bäckamark 
+
+
+
+
+    mine = "xae92cb" #Guldtorp
+
+
+
+
+    wood = "xabcb64" #Styrbjörns Stig
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3009
+}
+STATE_MUSKO = {
+    id = 9
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x0DCA1F" "x1E6C41" "x67D8D4" "x67EF9F" "x6DC69B" "x6F9967" "x78E588" "x79BAD0" "x7C746D" "x8889C5" "x8AA6FA" "x8AAED2" "x986DB0" "x99D9BD" "xA1FDAB" "xA5CFD8" "xA6E187" "xA766C3" "xA79CC2" "xA964C8" "xAA7A90" "xAED787" "xB4C36F" "xB5CBA2" "xBAB877" "xBAF38F" "xBEFABE" "xCB99C8" "xCE7BD1" "xCEB8E8" "xCEF473" "xD365CA" "xDBE4EA" "xDEA193" "xDF7CC6" "xE5658F" "xE699BD" "xE69EE4" "xEABFDD" "xEDF9F2" "xEE97FC" "xF2816A" "xF581D6" "xF89FCB" "xFCF1D9" }
+    traits = {}
+    city = "x79bad0" #Muskö
+
+
+
+
+    port = "xa964c8" #Gäckamull Kulla
+
+
+
+
+    farm = "x8aa6fa" #Glitterboda
+
+
+
+
+    mine = "xb4c36f" #Frasebo
+
+
+
+
+    wood = "xbefabe" #Hylsebo
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 36
+        bg_coal_mining = 92
+        bg_logging = 30
+        bg_fishing = 20
+        bg_lead_mining = 36
+    }
+    naval_exit_id = 3001
+}

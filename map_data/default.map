@@ -4,7 +4,14 @@ rivers = "rivers.png"
 adjacencies = "adjacencies.csv"
 wrap_x = yes
 
-sea_starts = {
-	}
-lakes = {
+sea_starts = { 
+	"x92dcea" "x0D99AA" "x064FAD" "x403DB7" "x184279" "x1F3757" "x158B99" "x54C3D0" "x103C75" "x3F87E5" 
+	"x1264CF" "x233852" "x3D7F87" "x193B68" "x182A41" "x407DCD" "x222087" "x2521D3" "x3AB4FF" "x424168"
+	"x6AA8E5" "x6E98D0" "x70A6D6" "x78B6C4" "x78BEDA" "x7A84AF" "x7CA3CB" "x7CC9F9" "x80A7CB" "x80AAAF" 
+	"x819EDC" "x81CADA" "x838CA8" "x8583D3" "x85BDCA" "x8BE5D1" "x8FACF1" "x92C4F0" "x99B1D9" "x9ACDDC"
+	"xA4CDF6" "xA5C4EE" "xA6C7FC" "xAFC8FA" "xB0C6E5" "xB8CDDD" "xB9CCF8" "xBCDCF0" "x6CB7E3" "xA5C89D"
+	"x471818" "x193B68" "x3E1580" "x1BDD77"
+}
+lakes = { 
+	"x64C8D4" "x1C7A85" "xC673CE" "x22858F" "xED7927"
 }

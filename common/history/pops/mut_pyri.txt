@@ -1,0 +1,142 @@
+﻿POPS = {
+	s:STATE_HINDENBURG = {
+		region_state:A01 = {
+		
+			create_pop = {
+				culture = pyri_human
+				size = 90000
+			}	
+			
+			create_pop = {
+				culture = pyri_mutant
+				size = 35000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_mutant
+				size = 35000
+				
+			}
+			
+			create_pop = {
+				culture = pyri_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_robot
+				size = 10000
+			}
+		}
+	}
+	s:STATE_PYRI_PLAINS = {
+		region_state:A01 = {
+		
+			create_pop = {
+				culture = pyri_human
+				size = 90000
+			}	
+			
+			create_pop = {
+				culture = pyri_mutant
+				size = 35000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_mutant
+				size = 35000
+				
+			}
+			
+			create_pop = {
+				culture = pyri_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_robot
+				size = 10000
+			}
+		}
+	}
+	s:STATE_MUSKO = {
+		region_state:A01 = {
+		
+			create_pop = {
+				culture = pyri_human
+				size = 90000
+			}	
+			
+			create_pop = {
+				culture = pyri_mutant
+				size = 35000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_mutant
+				size = 35000
+				
+			}
+			
+			create_pop = {
+				culture = pyri_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_robot
+				size = 10000
+			}
+		}
+	}
+	s:STATE_ALGMARDEN = {
+		region_state:A01 = {
+		
+			create_pop = {
+				culture = pyri_human
+				size = 90000
+			}	
+			
+			create_pop = {
+				culture = pyri_mutant
+				size = 35000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_mutant
+				size = 35000
+				
+			}
+			
+			create_pop = {
+				culture = pyri_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_animal_psi_mutant
+				size = 1000
+			}
+			
+			create_pop = {
+				culture = pyri_robot
+				size = 10000
+			}
+		}
+	}
+}

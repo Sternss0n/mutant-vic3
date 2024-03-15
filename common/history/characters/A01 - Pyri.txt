@@ -1,0 +1,157 @@
+﻿CHARACTERS = {
+	c:A01 = {
+		create_character = {
+			first_name = Thorulf
+			last_name = Skarprattare
+			historical = yes
+			ruler = yes
+			noble = yes
+			birth_date = 66.4.13
+			culture = cu:pyri_human
+			interest_group = ig_landowners
+			ideology = ideology_humanitarian_royalist
+			dna = dna_thorulf_skarprattare
+			traits = {
+				experienced_diplomat
+				tactful
+				charismatic
+			}
+		}
+		create_character = {
+			first_name = Aston
+			last_name = Schold
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_armed_forces
+			ig_leader = yes
+			ideology = ideology_jingoist_leader
+			traits = {
+				traditionalist_commander
+				honorable
+				direct
+			}
+		}
+		create_character = {
+			first_name = Alvira
+			last_name = Schold
+			female = yes
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			hq = region_karle
+			commander_rank = commander_rank_3
+			traits = {
+				imposing
+				stalwart_defender
+				persistent
+			}
+		}
+		create_character = {
+			first_name = Herbart
+			last_name = Krooger
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_petty_bourgeoisie
+			ig_leader = yes
+			ideology = ideology_market_liberal
+			traits = {
+				grifter
+				ambitious
+				expensive_tastes
+			}
+		}
+		create_character = {
+			first_name = Luguber
+			last_name = Frankelhane
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_rural_folk
+			ig_leader = yes
+			ideology = ideology_land_reformer
+			traits = {
+				charismatic
+				honorable
+				political_operator
+			}
+		}
+		create_character = {
+			first_name = Wolfram
+			last_name = Bonner
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_industrialists
+			ig_leader = yes
+			ideology = ideology_protectionist
+			traits = {
+				reckless
+				ambitious
+				imposing
+			}
+		}
+		create_character = {
+			first_name = Manfred
+			last_name = Lund
+			historical = yes
+			culture = cu:pyri_mutant
+			interest_group = ig_intelligensia
+			ig_leader = yes
+			ideology = ideology_humanitarian
+			traits = {
+				innovative
+				erudite
+				literary
+			}
+		}
+		create_character = {
+			first_name = Rex
+			last_name = Dubilo
+			historical = yes
+			culture = cu:pyri_mutant
+			interest_group = ig_trade_unions
+			ig_leader = yes
+			ideology = ideology_radical
+			traits = {
+				demagogue
+				persistent
+				wrathful
+			}
+		}
+		create_character = {
+			first_name = Gunnart
+			last_name = Wrede
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_landowners
+			ig_leader = yes
+			ideology = ideology_royalist
+			traits = {
+				meticulous
+				master_bureaucrat
+				diplomat
+			}
+		}
+				create_character = {
+			first_name = Godard
+			last_name = Wrede
+			historical = yes
+			noble = yes
+			culture = cu:pyri_human
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			hq = strategic_region_malsjon
+			admiral_rank = admiral_rank_3
+			traits = {
+				imposing
+				stalwart_defender
+				persistent
+			}
+		}
+	}
+}

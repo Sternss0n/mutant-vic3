@@ -1,0 +1,322 @@
+﻿#Vanilla sea states start at 3000 so I've just retained that. Unlike land states, sea states only include one province per state. FOrtunately though, aside from getting a bunch of errors, the game still functions without you deifning these if you dont want to. I've defined the example province map sea provinces though to reduce the error count when you start working on your own.
+#You will want to remove these though if you add your own province map as the game typically doesn't like when you define provinces that arent on the map.
+
+STATE_MALSJON = {
+    provinces = { "x92DCEA" }
+    id = 3000
+}
+
+STATE_MALSJO_ARCHIPELAGO = {
+    provinces = { "x0D99AA" }
+    id = 3001
+}
+
+STATE_OSTERHAVET_1 = {
+    provinces = { "x064FAD" }
+    id = 3002
+}
+
+STATE_OSTERHAVET_2 = {
+    provinces = { "x403DB7" }
+    id = 3003
+}
+
+STATE_OSTERHAVET_3 = {
+    provinces = { "x184279" }
+    id = 3004
+}
+
+STATE_OSTERHAVET_4 = {
+    provinces = { "x1F3757" }
+    id = 3005
+}
+
+STATE_SOUTH_BOTTEN = {
+    provinces = { "x158B99" }
+    id = 3007
+}
+
+STATE_BOTTEN = {
+    provinces = { "x54C3D0" }
+    id = 3008
+}
+
+STATE_GATTEN = {
+    provinces = { "x103C75" }
+    id = 3009
+}
+
+STATE_SCANDIAN_BAY = {
+    provinces = { "x3F87E5" }
+    id = 3010
+}
+
+STATE_LITTLE_BULT = {
+    provinces = { "x1264CF" }
+    id = 3011
+}
+
+STATE_NECROPOLIS_BAY = {
+    provinces = { "x233852" }
+    id = 3012
+}
+
+STATE_WERNERN = {
+    provinces = { "x64C8D4" }
+    id = 3013
+}
+
+STATE_MAELSTROM = {
+    provinces = { "x3E1580" }
+    id = 3014
+}
+
+STATE_RIGO_BAY = {
+    provinces = { "x3D7F87" }
+    id = 3015
+}
+
+STATE_NORTHERN_SEA = {
+    provinces = { "x6CB7E3" }
+    id = 3016
+}
+
+STATE_WIZKY_RIVER = {
+    provinces = { "x1C7A85" }
+    id = 3017
+}
+
+STATE_GOTA_RIVER = {
+    provinces = { "x081ADF" }
+    id = 3018
+}
+
+STATE_KARELIAN_BAY = {
+    provinces = { "x182A41" }
+    id = 3019
+}
+
+STATE_NIDAROS_SEA = {
+    provinces = { "x407DCD" }
+    id = 3020
+}
+
+STATE_VATTATRASKET = {
+    provinces = { "xC673CE" }
+    id = 3021
+}
+
+STATE_OSTERGOLEN = {
+    provinces = { "x22858F" }
+    id = 3022
+}
+
+STATE_OZ_FJORD = {
+    provinces = { "x471818" }
+    id = 3023
+}
+
+STATE_SCANDIAN_SEA = {
+    provinces = { "x193B68" }
+    id = 3024
+}
+#Placeholder Seas
+
+STATE_PLACEHOLDER_SEA_1 = {
+    provinces = { "x7CC9F9" }
+    impassable = {}
+    id = 3071
+}
+
+STATE_PLACEHOLDER_SEA_2 = {
+    provinces = { "x2521D3" }
+    impassable = {}
+    id = 3072
+}
+
+STATE_PLACEHOLDER_SEA_3 = {
+    provinces = { "x8FACF1" }
+    impassable = {}
+    id = 3073
+}
+
+STATE_PLACEHOLDER_SEA_4 = {
+    provinces = { "x424168" }
+    impassable = {}
+    id = 3074
+}
+
+STATE_PLACEHOLDER_SEA_5 = {
+    provinces = { "x78BEDA" }
+    impassable = {}
+    id = 3075
+}
+
+STATE_PLACEHOLDER_SEA_6 = {
+    provinces = { "x222087" }
+    impassable = {}
+    id = 3076
+}
+
+STATE_PLACEHOLDER_SEA_7 = {
+    provinces = { "x99B1D9" }
+    impassable = {}
+    id = 3077
+}
+
+STATE_PLACEHOLDER_SEA_8 = {
+    provinces = { "x92C4F0" }
+    impassable = {}
+    id = 3078
+}
+
+STATE_PLACEHOLDER_SEA_9 = {
+    provinces = { "xA4CDF6" }
+    impassable = {}
+    id = 3079
+}
+
+STATE_PLACEHOLDER_SEA_10 = {
+    provinces = { "x8BE5D1" }
+    impassable = {}
+    id = 3080
+}
+
+STATE_PLACEHOLDER_SEA_11 = {
+    provinces = { "x7A84AF" }
+    impassable = {}
+    id = 3081
+}
+
+STATE_PLACEHOLDER_SEA_12 = {
+    provinces = { "xB9CCF8" }
+    impassable = {}
+    id = 3082
+}
+
+STATE_PLACEHOLDER_SEA_13 = {
+    provinces = { "x85BDCA" }
+    impassable = {}
+    id = 3083
+}
+
+STATE_PLACEHOLDER_SEA_14 = {
+    provinces = { "x7CA3CB" }
+    impassable = {}
+    id = 3084
+}
+
+STATE_PLACEHOLDER_SEA_15 = {
+    provinces = { "xA5C4EE" }
+    impassable = {}
+    id = 3085
+}
+
+STATE_PLACEHOLDER_SEA_16 = {
+    provinces = { "x6E98D0" }
+    impassable = {}
+    id = 3086
+}
+
+STATE_PLACEHOLDER_SEA_17 = {
+    provinces = { "x6AA8E5" }
+    impassable = {}
+    id = 3087
+}
+
+STATE_PLACEHOLDER_SEA_18 = {
+    provinces = { "x819EDC" }
+    impassable = {}
+    id = 3088
+}
+
+STATE_PLACEHOLDER_SEA_19 = {
+    provinces = { "x8583D3" }
+    impassable = {}
+    id = 3089
+}
+
+STATE_PLACEHOLDER_SEA_20 = {
+    provinces = { "x80A7CB" }
+    impassable = {}
+    id = 3090
+}
+
+STATE_PLACEHOLDER_SEA_21 = {
+    provinces = { "x838CA8" }
+    impassable = {}
+    id = 3091
+}
+
+STATE_PLACEHOLDER_SEA_22 = {
+    provinces = { "x80AAAF" }
+    impassable = {}
+    id = 3092
+}
+
+STATE_PLACEHOLDER_SEA_23 = {
+    provinces = { "xA6C7FC" }
+    impassable = {}
+    id = 3093
+}
+
+STATE_PLACEHOLDER_SEA_24 = {
+    provinces = { "x81CADA" }
+    impassable = {}
+    id = 3094
+}
+
+STATE_PLACEHOLDER_SEA_25 = {
+    provinces = { "xB8CDDD" }
+    impassable = {}
+    id = 3095
+}
+
+STATE_PLACEHOLDER_SEA_26 = {
+    provinces = { "xBCDCF0" }
+    impassable = {}
+    id = 3096
+}
+
+STATE_PLACEHOLDER_SEA_27 = {
+    provinces = { "x70A6D6" }
+    impassable = {}
+    id = 3097
+}
+
+STATE_PLACEHOLDER_SEA_28 = {
+    provinces = { "x9ACDDC" }
+    impassable = {}
+    id = 3098
+}
+
+STATE_PLACEHOLDER_SEA_29 = {
+    provinces = { "x78B6C4" }
+    impassable = {}
+    id = 3099
+}
+
+
+STATE_PLACEHOLDER_SEA_30 = {
+    provinces = { "x1BDD77" }
+    impassable = {}
+    id = 3067
+}
+
+STATE_PLACEHOLDER_SEA_31 = {
+    provinces = { "x3AB4FF" }
+    impassable = {}
+    id = 3068
+}
+
+STATE_PLACEHOLDER_SEA_32 = {
+    provinces = { "xAFC8FA" }
+    impassable = {}
+    id = 3069
+}
+
+STATE_PLACEHOLDER_SEA_33 = {
+    provinces = { "xB0C6E5" }
+    impassable = {}
+    id = 3070
+}

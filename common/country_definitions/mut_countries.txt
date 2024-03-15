@@ -1,0 +1,26 @@
+﻿#Pyri
+A01 = {
+	color = { 11 102 187 } #Royal Blue
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = { pyri_human }
+	
+	capital = STATE_HINDENBURG
+}
+
+#Ulvriket
+B02 = {
+	color = { 10 201 781 } #Royal Blue
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = { pyri_human pyri_mutant pyri_animal_mutant 
+	}
+	
+	capital = STATE_NECROPOLIS
+}

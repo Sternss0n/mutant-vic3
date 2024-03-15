@@ -1,0 +1,7 @@
+﻿POPULATION = {
+	c:A01 = {	#Pyri
+		
+		effect_starting_pop_wealth_high = yes
+		effect_starting_pop_literacy_low = yes	
+	}
+}

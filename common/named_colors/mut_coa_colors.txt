@@ -1,0 +1,16 @@
+colors	=	{
+	#Mutant Colours
+	# rgb { 28 124 140 }
+
+	#Pyri
+	pyri_royal_blue = rgb ( 65 105 225 )
+	pyri_gold = rgb ( 218 165 32 )
+	pyri_gold_2 = rgb ( 212 175 55 )
+	pyri_black = rgb ( 5 5 5 )
+	pyri_white = rgb ( 224 224 224 )
+	
+	#Ulvriket
+	ulvriket_white = rgb ( 255 250 250 )
+	ulvriket_black = rgb ( 18 18 18 )
+	ulvriket_red = rgb ( 102 0 0 )
+} 

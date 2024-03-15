@@ -56,11 +56,11 @@
 			Materials={
 				Material={
 					MaterialId="marchlands_04"
-					Value=108
+					Value=93
 				}
 				Material={
 					MaterialId="cliff_granite_07"
-					Value=147
+					Value=162
 				}
 			}
 		}
@@ -82,15 +82,87 @@
 			}
 		}
 		Sample={
-			Name="Sample from 128, 2109"
+			Name="Marsh Floor"
 			Materials={
 				Material={
-					MaterialId="permafrost_01"
-					Value=180
+					MaterialId="marchlands_04"
+					Value=155
+				}
+				Material={
+					MaterialId="rocks_01"
+					Value=50
+				}
+				Material={
+					MaterialId="beach_03"
+					Value=50
+				}
+			}
+		}
+		Sample={
+			Name="Marsh Cliff"
+			Materials={
+				Material={
+					MaterialId="woodlands_03"
+					Value=155
+				}
+				Material={
+					MaterialId="cliff_granite_01"
+					Value=100
+				}
+			}
+		}
+		Sample={
+			Name="Sample from 4016, 1013"
+			Materials={
+				Material={
+					MaterialId="grasslands_08"
+					Value=119
+				}
+				Material={
+					MaterialId="savanna_01"
+					Value=26
+				}
+				Material={
+					MaterialId="grasslands_05"
+					Value=59
+				}
+				Material={
+					MaterialId="grasslands_02"
+					Value=26
+				}
+				Material={
+					MaterialId="savanna_03"
+					Value=25
+				}
+			}
+		}
+		Sample={
+			Name="Sample from 3846, 1375"
+			Materials={
+				Material={
+					MaterialId="woodlands_01"
+					Value=78
 				}
 				Material={
 					MaterialId="woodlands_03"
-					Value=75
+					Value=177
+				}
+			}
+		}
+		Sample={
+			Name="Ash Fields"
+			Materials={
+				Material={
+					MaterialId="beach_03"
+					Value=118
+				}
+				Material={
+					MaterialId="cliff_granite_01"
+					Value=64
+				}
+				Material={
+					MaterialId="rocks_01"
+					Value=73
 				}
 			}
 		}

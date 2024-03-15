@@ -17,3 +17,31 @@
 #}
 
 #####################
+
+STATES = {
+	s:STATE_HINDENBURG = {
+		create_state = {
+			country = c:A01
+			owned_provinces = { 
+			"x1e6c40" "x1e6c40" "x9fd0d6" "x0dca1e" "x8a1f5e"
+			}
+		}
+		add_homeland = cu:pyri_human
+		add_homeland = cu:pyri_mutant
+		add_homeland = cu:pyri_animal_mutant
+	}
+}
+
+STATES = {
+	s:STATE_ULVRIKET = {
+		create_state = {
+			country = c:A01
+			owned_provinces = { 
+			
+			}
+		}
+		add_homeland = cu:ulvman
+		add_homeland = cu:ulvman_mutant
+		add_homeland = cu:ulvman_animal_mutant
+	}
+}

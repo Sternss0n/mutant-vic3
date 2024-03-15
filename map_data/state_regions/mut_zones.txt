@@ -1,0 +1,140 @@
+﻿#Zones
+
+STATE_MUSKO_ZONE = {
+    provinces = { "xD50D0D" }
+    impassable = { "xD50D0D" }
+    id = 9000
+}
+
+STATE_HEL = {
+    provinces = { "xAD0011" }
+    impassable = { "xAD0011" }
+    id = 9001
+}
+
+STATE_MURMARSK = {
+    provinces = { "xAD1C1C" }
+    impassable = { "xAD1C1C" }
+    id = 9002
+
+}
+
+STATE_MUST = {
+    provinces = { "x5A2525" }
+    impassable = { "x5A2525" }
+    id = 9003
+}
+
+STATE_NEVA_ZONE = {
+    provinces = { "x701919" }
+    impassable = { "x701919" }
+    id = 9004
+}
+
+STATE_OZ = {
+    provinces = { "x3D1968" }
+    impassable = { "x3D1968" }
+    id = 9005
+}
+
+STATE_UDDE_ZONE = {
+    provinces = { "x5A0707" }
+    impassable = { "x5A0707" }
+    id = 9006
+}
+
+STATE_MO_ZONE = {
+    provinces = { "x650707" }
+    impassable = { "x650707" }
+    id = 9007
+}
+
+STATE_MOKEN = {
+    provinces = { "xF83232" }
+    impassable = { "xF83232" }
+    id = 9008
+}
+
+STATE_GRUZNAN = {
+    provinces = { "xCB5252" }
+    impassable = { "xCB5252" }
+    id = 9009
+}
+
+STATE_CHEM_ARCHIPELAGO = {
+    provinces = { "x9A1212" }
+    impassable = { "x9A1212" }
+    id = 9010
+}
+
+STATE_ZAMKNEITA = {
+    provinces = { "xC72525" }
+    impassable = { "xC72525" }
+    id = 9011
+}
+
+STATE_HEDMORA_HELL = {
+    provinces = { "x64977F" "x67F6D1" "x6874BE" "x687EE0" "x6982A7" "x698FA0" "x69C982" "x6CC085" "x6F6CEA" "x719B8C" "x719E9C" "x72B0A3" "x7366C4" "x74FCE5" "x7567F9" "x75C8AD" "x7796B3" "x7991F4" "x79C3B4" "x79D4B4" "x7CEF94" "x7EB3C2" "x7EF2EA" "x7F809B" "x7FB58C" "x7FFEEB" "x81CAF3" "x82F3EF" "x87EAE7" "x8AA2DC" "x8D81E3" "x8EB98B" "x8FF4A9" "x918F8E" "x93E9DE" "x94BEDD" "x9AA8E4" "xA0BDA9" "xA1BB92" "xA4C992" "xA5CDA9" "xACE568" "xAD9DE2" "xADCD79" "xAEE98E" "xAEFDD7" "xB0F5E9" "xB195F8" "xB4956D" "xB6F0C4" "xB87EFA" "xB98285" "xBAD8CF" "xBBB0DE" "xBBC8DD" "xBCF7F8" "xBF66BB" "xC19FFC" "xC29778" "xC4EBB7" "xC5BCB4" "xC683DD" "xC871F8" "xC9A46F" "xCD796D" "xCEDDE4" "xD1B0F4" "xD1C6E5" "xD3F98B" "xD46FA6" "xD4D882" "xD57FCD" "xD6BB7A" "xD7D8E8" "xD87680" "xDCAA99" "xDDFBA5" "xE073C8" "xE59470" "xE5E465" "xE7B572" "xEA9FC5" "xEB8AAA" "xEE96DB" "xEECABF" "xF1B085" "xF47D67" "xF9EC7E" "xFD92B1" }
+    impassable = {}
+    id = 9012
+}
+
+STATE_ZONE_MALGOMAJ = {
+    provinces = { "x6F0B0B" }
+    impassable = { "x6F0B0B" }
+    id = 9013
+}
+#Wastelands
+
+STATE_HYLSEHÖGARNA = {
+    provinces = { "x8FC898" }
+    impassable = { "x8FC898" }
+    id = 9014
+}
+
+STATE_ASKERDAL = {
+    provinces = {}
+    impassable = {}
+    id = 9015
+}
+
+STATE_HULTAMARKEN = {
+    provinces = { "x186A00" "x546D4D" "x62AF4C" "x659FD9" "x686FD9" "x68DB64" "x69B9DF" "x6BB4FC" "x6DC177" "x6FA9E5" "x6FB4ED" "x6FD97F" "x70DF66" "x7575FE" "x7795DB" "x7AE671" "x7B93F5" "x7C6A89" "x7CB26C" "x7DBD7C" "x7EEBDC" "x7EF1F7" "x818FBC" "x83D596" "x83E767" "x877FA2" "x89816E" "x8BAC7B" "x8C98FB" "x91C597" "x91D98C" "x91F8E2" "x93B48C" "x93EA6E" "x94DCE9" "x95B3C7" "x99CDE2" "x9A8986" "x9B79AE" "x9C7EB1" "x9FDCBA" "x9FE9D2" "xA1839D" "xA1D7B4" "xA1FAB1" "xA2F098" "xA3C799" "xA3D391" "xA597DC" "xA6A17B" "xA880C1" "xA8A887" "xACA1D1" "xACBDDF" "xADD9FD" "xADF889" "xAEDAA3" "xAEE3A6" "xB180DA" "xB2F2D6" "xB3E78E" "xB6F0FD" "xB87B98" "xB9F4F3" "xBB66DF" "xBBAAE7" "xBDFBB7" "xBEA0F2" "xBEBFE6" "xBEC3CA" "xBFE774" "xC0E899" "xC1658D" "xC1CBF6" "xC8CFBE" "xCAEBC2" "xCEA87B" "xD1B5A0" "xD26DF8" "xD3D7BF" "xD9B38B" "xDACF7D" "xDB8269" "xDC6C71" "xDF9B72" "xDFEDD3" "xE0B9CF" "xE2B5BB" "xE2BDBE" "xE37173" "xE6B2C5" "xE7BC8E" "xECC6B8" "xECF477" "xEEAFF9" "xF0A7DC" "xF2C97F" "xF2F597" "xF39AE5" "xF3D778" "xF3ED94" "xF58A99" "xF679F4" "xF7A98E" "xF985D9" "xFBD29F" "xFC666C" "xFCE6FD" "xFDDDF3" "xFDE07B" }
+    impassable = {}
+    id = 9016
+}
+
+STATE_ZTILLNESS = {
+    provinces = { "xF0AD90" }
+    id = 9017
+}
+
+STATE_CATALYSMICA = {
+    provinces = { "x584232" }
+    impassable = { "x584232" }
+    id = 9019
+}
+
+STATE_LAVA_LAKES = {
+    provinces = { "xED7927" }
+    impassable = { "xED7927" }
+    id = 9020
+}
+
+STATE_CRATER_LANDS = {
+    provinces = { "x58473A" }
+    impassable = { "x58473A" }
+    id = 9021
+}
+
+STATE_SCORCHED_EARTH = {
+    provinces = { "xC4613E" }
+    impassable = {}
+    id = 9022
+}
+
+STATE_SCHWART_CRATER = {
+    provinces = { "x2804b4" }
+    impassable = { "x2804b4" }
+    id = 2
+}

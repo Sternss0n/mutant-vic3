@@ -1,0 +1,148 @@
+﻿STATE_GOTLAND = {
+    id = 100
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x66ACF9" "x6B9CA5" "x6CF682" "x769B98" "x79BEFB" "x7C676D" "x7C8B7E" "x7DAC90" "x7FCEFA" "x816BF7" "x876DD5" "x90EA9E" "x91FEC8" "x926DD5" "x92C5AF" "x92CBEB" "x9689B0" "x9BC26B" "x9BD9A3" "x9EDB9D" "xA2B19C" "xA3AB86" "xA4BE84" "xA4CC7B" "xA77FE5" "xA7E0E8" "xA9E4AC" "xAE9177" "xAF72EB" "xB7FDAE" "xBA7E75" "xBCA398" "xBDB8F5" "xBECAEF" "xBFA68B" "xC5ACCB" "xC966A2" "xCBE9BA" "xCE758F" "xD1EACD" "xD26A78" "xD2AB69" "xD3F2A1" "xD7B5E2" "xE16AF2" "xE3A695" "xE7A3CC" "xECB7A5" "xECE1D0" "xEE98ED" "xF2BAF4" "xF5D28F" "xF6F8D8" "xF8D4FD" "xFA78E2" }
+    traits = {}
+    city = "" #Karle
+
+
+
+
+
+
+
+
+
+
+
+    port = "" #Vlacka
+
+
+
+
+
+
+
+
+
+
+
+    farm = "" #Bjästa
+
+
+
+
+
+
+
+
+
+
+
+    mine = "" #Sävfle
+
+
+
+
+
+
+
+
+
+
+
+    wood = "" #Slevtofta
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}
+STATE_BORGHOLM = {
+    id = 101
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x65A3BC" "x6FF2B0" "x79A77B" "x8B7C9E" "x98B869" "xAED479" "xB68987" "xBD6AE0" "xBDC677" "xC37BFA" "xC8D6B9" "xE7B092" }
+    traits = {}
+    city = "" #Karle
+
+
+
+
+
+
+
+
+
+
+
+    port = "" #Vlacka
+
+
+
+
+
+
+
+
+
+
+
+    farm = "" #Bjästa
+
+
+
+
+
+
+
+
+
+
+
+    mine = "" #Sävfle
+
+
+
+
+
+
+
+
+
+
+
+    wood = "" #Slevtofta
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}

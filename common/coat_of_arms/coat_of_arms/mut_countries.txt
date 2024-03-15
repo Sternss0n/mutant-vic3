@@ -1,0 +1,151 @@
+@ermine_scale = 0.2
+
+A01 = { # Pyri
+	pattern = "pattern_solid.tga"
+	color1 = "pyri_gold"
+	color2 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "pyri_royal_blue"
+		color2 = "pyri_royal_blue"
+		instance = { scale = { 1.0 1.0 }	position = { 0.5 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "pyri_black"
+		color2 = "pyri_black"
+		instance = { scale = { @[1/3] 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "mut_ce_eagle_pyri.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		color3 = "pyri_gold"
+		instance = { scale = { 0.6 0.6 }	position = { @[1/6] 0.5 }	}
+	}
+}
+A01_monarchy = { # Pyri
+	pattern = "pattern_solid.tga"
+	color1 = "pyri_gold"
+	color2 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "pyri_royal_blue"
+		color2 = "pyri_royal_blue"
+		instance = { scale = { 1.0 1.0 }	position = { 0.5 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "pyri_black"
+		color2 = "pyri_black"
+		instance = { scale = { @[1/3] 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "mut_ce_eagle_pyri.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		color3 = "pyri_gold"
+		instance = { scale = { 0.6 0.6 }	position = { @[1/6] 0.5 }	}
+	}
+}
+A01_republic = { # Pyri
+		pattern = "pattern_solid.tga"
+		color1 = "pyri_white"
+		color2 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "pyri_royal_blue"
+		color2 = "pyri_royal_blue"
+		instance = { scale = { 1.0 1.0 }	position = { 0.5 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "pyri_black"
+		color2 = "pyri_black"
+		instance = { scale = { @[1/3] 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_torch.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		color3 = "pyri_black"
+		instance = { scale = { 1.0 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+}
+A01_dictatorship = { # Pyri
+	pattern = "pattern_solid.tga"
+	color1 = "pyri_white"
+	color2 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "pyri_royal_blue"
+		color2 = "pyri_royal_blue"
+		instance = { scale = { 1.0 1.0 }	position = { 0.5 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "pyri_black"
+		color2 = "pyri_black"
+		instance = { scale = { @[1/3] 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+}
+A01_communist = { # Pyri
+	pattern = "pattern_solid.tga"
+	color1 = "ulvriket_red"
+	color2 = "pyri_white"
+	color3 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = color2
+		color2 = color2
+		instance = { scale = { 1.0 0.15 }	position = { 0.5 0.775 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = color3
+		color2 = color3
+		instance = { scale = { 1.0 0.15 }	position = { 0.5 0.925 }	}
+	}
+	colored_emblem = {
+		texture = "ce_wreath.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		instance = { scale = { 0.75 0.75 }	position = { 0.25 0.35 }	}
+	}
+	colored_emblem = {
+		texture = "ce_torch.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		instance = { scale = { 0.7 0.7 }	position = { 0.25 0.35 }	}
+	}
+}
+A01_mutant = { # Pyri
+	pattern = "pattern_solid.tga"
+	color1 = "pyri_gold"
+	color2 = "pyri_royal_blue"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "pyri_royal_blue"
+		color2 = "pyri_royal_blue"
+		instance = { scale = { 1.0 1.0 }	position = { 0.5 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "pyri_black"
+		color2 = "pyri_black"
+		instance = { scale = { @[1/3] 1.0 }	position = { @[1/6] 0.5 }	}
+	}
+	colored_emblem = {
+		texture = "mut_ce_eagle_pyri_mutant.dds"
+		color1 = "pyri_gold"
+		color2 = "pyri_gold"
+		color3 = "pyri_gold"
+		instance = { scale = { 0.6 0.6 }	position = { @[1/6] 0.5 }	}
+	}
+}

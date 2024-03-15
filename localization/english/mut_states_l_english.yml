@@ -1,0 +1,44 @@
+﻿l_english:
+ #Sweden
+ STATE_HINDENBURG:0 "Hindenburg"
+ STATE_ALGAMARDEN:0 "Älgamården"
+ STATE_NORDHOLMIA:0 "Nordholmia"
+ STATE_ASKERDAL:0 "Askerdal"
+
+ 
+ #Denmark
+ 
+ #Norway
+ 
+ #Finland
+ 
+ #Baltics
+ 
+ #Zones
+ 
+ #Wastelands
+ 
+ #Seas
+ STATE_MALSJON:0 "Malsjön"
+ STATE_MALSJO_ARCHIPELAGO:0 "Malsjö Archipelago"
+ STATE_OSTERHAVET_1:0 "Öster Sea"
+ STATE_OSTERHAVET_2:0 "Öster Sea"
+ STATE_OSTERHAVET_3:0 "Öster Sea"
+ STATE_OSTERHAVET_4:0 "Öster Sea" #Unused
+ STATE_SOUTH_BOTTEN:0 "South Botten"
+ STATE_BOTTEN:0 "Botten"
+ STATE_GATTEN:0 "Gatten"
+ STATE_SCANDIAN_BAY:0 "Scandian Bay"
+ STATE_LITTLE_BULT:0 "Little Bult"
+ STATE_NECROPOLIS_BAY:0 "Necropolis Bay"
+ STATE_RIGO_BAY:0 "Rigö Bay"
+ STATE_NORTHERN_SEA:0 "Northern Sea"
+ STATE_KARELIAN_BAY:0 "Karelian Bay"
+ STATE_NIDAROS_SEA:0 "Nidaros Sea"
+ 
+ #Lakes & Rivers
+ STATE_WERNERN:0 "Wernern"
+ STATE_WIZKY_RIVER:0 "Wizky River"
+ STATE_GOTA_RIVER:0 "Göta River"
+ STATE_VATTARTRASKET:0 "Vättaträsket Marches"
+ STATE_OSTERGOLEN:0 "Östergölen Swamp"

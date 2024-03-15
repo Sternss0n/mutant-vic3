@@ -203,8 +203,9 @@ object={
 	generated_content=no
 	layer="static"
 	entity="european_lighthouse_01_entity"
-	count=0
-}
+	count=1
+	transform="4364.751465 0.000000 1543.758667 0.000000 0.000000 0.000000 1.000000 0.546373 0.546373 0.546373
+"}
 object={
 	name="latin_lighthouse_01"
 	clamp_to_water_level=no
@@ -298,7 +299,7 @@ object={
 object={
 	name="smoke_chimney_01"
 	clamp_to_water_level=yes
-	render_under_water=yes
+	render_under_water=no
 	generated_content=no
 	layer="environmental_effects"
 	entity="smoke_chimney_01"
@@ -311,8 +312,9 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="whale_entity"
-	count=1
-	transform="4368.880371 0.000000 1790.273682 0.000000 0.000000 0.000000 1.000000 27.165663 27.165663 27.165663
+	count=2
+	transform="4979.975098 0.000000 1580.811035 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+4799.857422 0.000000 1489.589844 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
 "}
 object={
 	name="whale_white_01"
@@ -322,5 +324,5 @@ object={
 	layer="environmental_effects"
 	entity="whale_white_entity"
 	count=1
-	transform="1448.223633 0.000000 282.959229 0.000000 0.000000 0.000000 1.000000 3.325850 3.325850 3.325850
+	transform="4790.607910 0.000000 1822.291870 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
 "}

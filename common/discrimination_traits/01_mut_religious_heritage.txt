@@ -1,0 +1,31 @@
+﻿###### EXAMPLE ######
+
+#examplian = {
+#	heritage = yes
+#}
+
+#####################
+
+psionic = {
+	heritage = yes
+}
+
+cultist = {
+	heritage = yes
+}
+
+traditions = {
+	heritage = yes
+}
+
+sects = {
+	heritage = yes
+}
+
+shamanist = {
+	heritage = yes
+}
+
+zone_worship = {
+	heritage = yes
+}

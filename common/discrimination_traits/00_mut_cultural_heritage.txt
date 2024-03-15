@@ -1,0 +1,19 @@
+﻿###### EXAMPLE ######
+
+#example_heritage = {
+#	heritage = yes
+#}
+
+#####################
+
+human_heritage = {
+	heritage = yes
+}
+
+mutant_heritage = {
+	heritage = yes
+}
+
+animal_heritage = {
+	heritage = yes
+}

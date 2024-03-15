@@ -1,0 +1,342 @@
+﻿STATE_KASUNEN = {
+    id = 300
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x64AB69" "x64CFAC" "x6582B3" "x6588EF" "x66C7FA" "x68CAE1" "x69FCD8" "x7177C5" "x71F389" "x7293D4" "x76A576" "x77DED1" "x789DDF" "x78EBFD" "x796794" "x799CC9" "x79D39E" "x7A89AD" "x7A9AA8" "x7CEFBB" "x7DDF6B" "x7E657C" "x7F90D0" "x81CC9C" "x82866A" "x886989" "x897E8A" "x898A79" "x89BFBF" "x89D1A0" "x8BD9A8" "x8E67D5" "x8EA69D" "x8F9394" "x8FD1C4" "x907E7D" "x93B67D" "x93DAAD" "x97F1FD" "x997080" "x99AF74" "x99C3C8" "x9EFADE" "x9F7EBA" "xA06CE0" "xA0C86E" "xA3D9B5" "xA5F79C" "xA6E09A" "xA6E9E6" "xA8E4AB" "xAAE36B" "xACB5D1" "xAE6864" "xB2E5B4" "xB471D5" "xB5D19F" "xB6F8FB" "xB6FC93" "xB7BBFC" "xB971CE" "xBE689E" "xC587E5" "xC5B098" "xC68ABA" "xC7FC9B" "xCC70D4" "xCC9E88" "xCD92C9" "xD07B7F" "xD2F0C6" "xD3B2B9" "xD4EBEA" "xD671FD" "xD673D5" "xD6BAC5" "xD8926F" "xDAC4D2" "xDD9389" "xE487B1" "xE4F285" "xE58F97" "xE68597" "xE6FEB8" "xE8EDAA" "xE9ABA5" "xE9DACB" "xEAF785" "xEBB3C7" "xEEA4DC" "xEF96CB" "xF08CAA" "xF0B69A" "xF1F9B6" "xF2ED8D" "xF3877D" "xF680DA" "xF7779C" "xF78287" "xF7E997" "xF9C0D2" "xF9CED9" "xFCF1DB" "xFDB56B" "xFE6C71" "xFE72BA" }
+    traits = {}
+    city = "x64e8e1" #Necropolis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    port = "x79bad0" #Flugendorf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    farm = "xe97577" #Rotengrad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mine = "x9ebdef" #Fort Dänke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    wood = "x9fe5cc" #Fort Zamovar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}
+STATE_NORTHERN_FYNEN = {
+    id = 301
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x656A91" "x659971" "x676ADC" "x67977E" "x67AB85" "x68F0C5" "x69B4E5" "x69E7F6" "x6AD6F5" "x6AF3A4" "x6B7AF9" "x6C886E" "x6C8897" "x6C9DCF" "x6CF089" "x6CFE7E" "x6E72D2" "x71B39C" "x71BCBD" "x7291D1" "x7383E7" "x7387DA" "x73F485" "x74F2F4" "x7582EB" "x75C3E0" "x767196" "x76EC82" "x7769EA" "x776A8D" "x7796D2" "x77A8D4" "x787FB7" "x78A484" "x78CC65" "x7981AF" "x79B1A6" "x79B4F6" "x7BE79E" "x7CC9AE" "x7CD6CF" "x7CEFFE" "x7D8EC9" "x7D91BE" "x7D96FB" "x7DB3CF" "x7EAFF6" "x7F9AD8" "x8085A9" "x80B0FB" "x80FB64" "x817496" "x819DB7" "x81BCE3" "x8271BC" "x829C88" "x82BC80" "x82F776" "x83A8C9" "x83A97E" "x8799C6" "x8880DF" "x88B2FB" "x899CB7" "x89E37B" "x8A68A4" "x8B907F" "x8BD6B1" "x8CA2E2" "x8CE471" "x8DA3B1" "x8DD7F0" "x8E99A5" "x8E9A94" "x8EC87A" "x8EEEB0" "x8FA3A3" "x8FDCA0" "x8FEB86" "x90B6BC" "x90BCC9" "x90E1E6" "x91BF94" "x926687" "x926D8A" "x92AAB5" "x93C58E" "x94FA7E" "x95CE7B" "x95D07B" "x96766D" "x977F8F" "x9780DD" "x97DED7" "x9996EA" "x9999C3" "x99B4DC" "x9A928F" "x9AB97D" "x9BA7DF" "x9BB865" "x9C66FB" "x9C6C72" "x9C97CD" "x9D876A" "x9D95D7" "x9DADAB" "x9E87F6" "x9ED1E3" "x9EDA66" "x9F6EBE" "x9FBD75" "xA1F28E" "xA28A92" "xA2BACF" "xA2DEE7" "xA3B9A0" "xA3FDCE" "xA46D9F" "xA486A5" "xA4ABE0" "xA4CABE" "xA4F2BE" "xA5CAD6" "xA5D4B0" "xA5E297" "xA78C8C" "xA7A0AD" "xA8ADC7" "xA9B770" "xAA897D" "xAAE98D" "xAC2091" "xACE677" "xACF7CB" "xAD67ED" "xAD72FE" "xAD7E94" "xAD8D98" "xAE8DB2" "xAEB1D8" "xAEBCC2" "xAEEFA6" "xAFD67E" "xB06792" "xB075BB" "xB0E6E7" "xB0F2A5" "xB0F4FC" "xB1DAB3" "xB26A80" "xB2AAC0" "xB4A19B" "xB4A9FB" "xB4AC96" "xB4E586" "xB566E7" "xB66493" "xB7DAD4" "xB7E0AD" "xB887B0" "xB88AA0" "xB9D1E7" "xBAAAC9" "xBB7E99" "xBBA1A5" "xBCA792" "xBCF79E" "xBD6CAF" "xBE9E9E" "xBF6D7F" "xC06FAD" "xC09FCD" "xC0AC64" "xC168F8" "xC285F6" "xC2DDD2" "xC3D5BC" "xC57AE0" "xC5DBEF" "xC5E2DC" "xC67581" "xC67CAD" "xC691F6" "xC7F793" "xC977E1" "xC9D273" "xCA7EB8" "xCB89D9" "xCCCFAB" "xCDD9D8" "xCF8470" "xCFF6B4" "xD1ED80" "xD264E3" "xD267B5" "xD2C5AC" "xD3F2BA" "xD4FBBB" "xD56BB8" "xD576D8" "xD5B58B" "xD6F1CA" "xD7A7E1" "xD7C074" "xD8816C" "xDB7AAC" "xDBC1B1" "xDBC1B6" "xDBEFE4" "xDC669F" "xDCDAB9" "xDDA669" "xDEDA65" "xDFD9C9" "xE072F3" "xE2CB6C" "xE2F1F3" "xE38182" "xE382CE" "xE3F86F" "xE49576" "xE49F8D" "xE4BC76" "xE57BAD" "xE58ABB" "xE6BBDC" "xE6C2BF" "xE6D6B4" "xE77B96" "xE7ABC2" "xE7B8FD" "xE7CC8B" "xE7D897" "xE9EC98" "xEABB67" "xEAC5E5" "xEAE167" "xEB71CE" "xEBD2AD" "xED76A9" "xEEADEF" "xEF6E7A" "xEFD195" "xF0CBA3" "xF0F46C" "xF26C6E" "xF37B84" "xF396B5" "xF3E573" "xF4997C" "xF4E1CD" "xF751E6" "xF76A81" "xF78571" "xF891AC" "xF8A7D2" "xF8B1F9" "xF8B9C7" "xF8FCBA" "xF996B6" "xF9C6E3" "xFAAE8E" "xFB9A99" "xFBA497" "xFD7B6E" "xFDECAA" "xFEC877" }
+    traits = {}
+    city = "x64e8e1" #Rastenplatz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    port = "x79bad0" #Gross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    farm = "xe97577" #Oddertoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mine = "x9ebdef" #Fort Hertz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    wood = "x9fe5cc" #Fort Dönitz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}
+STATE_SOUTHERN_FYNEN = {
+    id = 302
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x6585C9" "x658FC6" "x65A465" "x666DAD" "x6781D1" "x67CAA7" "x67EDF7" "x67FEA7" "x6989B3" "x6A6FD5" "x6A756B" "x6B6BC7" "x6DAD64" "x6DE87A" "x6FC2DC" "x70D3DA" "x7176F3" "x75C8F8" "x77E9D5" "x7A8976" "x7ABAEA" "x7BC5A7" "x7DC891" "x7EE6F4" "x7EF1FE" "x7F68D4" "x829691" "x836AEA" "x839AAA" "x84CEDE" "x85EC6C" "x876BFD" "x87D47D" "x87FD8C" "x887D70" "x89A298" "x8AA4F5" "x8C9BDB" "x8CCEE8" "x8DB9B1" "x8DC0DD" "x90BDE2" "x90D380" "x90E7D5" "x919EBB" "x91FA6A" "x92A3AD" "x9373A0" "x952487" "x96C5A3" "x9798E1" "x97D7B7" "x9A7274" "x9ABD96" "x9BD5BC" "x9D6BDC" "x9DE5C0" "xA0B7DD" "xA196F9" "xA1F8B2" "xA26DAA" "xA2EC97" "xA365E2" "xA3D488" "xA683FD" "xA6D77F" "xA7C072" "xA8F8D0" "xAA8787" "xABF9F2" "xACEBE3" "xAEDC8E" "xAF8AAA" "xAF8C83" "xB0A8F9" "xB16FDB" "xB1D2EF" "xB3DFDB" "xB3F996" "xB5A47F" "xB5B96B" "xB5D3AF" "xB9D0C9" "xBAFEB9" "xBCB2F9" "xBCE28F" "xBD686F" "xBDD8AB" "xBE6FEF" "xBEAE6D" "xBEE6FA" "xBF9DB9" "xBFE9EE" "xC0B674" "xC0DDBE" "xC19DD0" "xC26CC5" "xC27169" "xC283AE" "xC3AA8B" "xC4A785" "xC5E499" "xC5EABF" "xC690AF" "xC78F9F" "xC792EC" "xC799BC" "xC7FE6D" "xCAD66B" "xCAE675" "xCB7BF7" "xCC94D5" "xCCF485" "xCDD2D5" "xCFAAB8" "xCFC6E9" "xCFE1BD" "xD0A0EB" "xD0E8D2" "xD16F6C" "xD2EE6C" "xD5AD7F" "xD6D668" "xD798AE" "xD886A6" "xD8967D" "xDA66DC" "xDBB0D6" "xDBD0AF" "xDCFE89" "xDDB7F0" "xDDD8B9" "xDDE48F" "xDEA57D" "xDEF18B" "xDEF792" "xDFCE68" "xDFCECE" "xE09DB6" "xE1DCC1" "xE2D06C" "xE2F7AC" "xE4C3F9" "xE5ADBB" "xE5D99F" "xE89D6F" "xE9AA68" "xE9B97E" "xE9F7E1" "xEAF864" "xEAF9C5" "xEC8DAB" "xECE587" "xEDE5E7" "xEF907B" "xF16B7A" "xF495F1" "xF5CAE2" "xF68ABA" "xF6CE74" "xF6F0F4" "xF88878" "xF9CF66" "xF9DEAF" "xFCDD7A" }
+    traits = {}
+    city = "x64e8e1" #Dunklehulten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    port = "x79bad0" #Bris Brygga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    farm = "xe97577" #Fort Brecht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mine = "x9ebdef" #Fort Kapsej
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    wood = "x9fe5cc" #Fort Klauz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    arable_land = 180
+    arable_resources = { bg_rye_farms bg_livestock_ranches }
+    capped_resources = {
+        bg_iron_mining = 1
+        bg_logging = 1
+        bg_fishing = 1
+    }
+    naval_exit_id = 3000
+}
